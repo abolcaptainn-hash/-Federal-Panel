@@ -16,46 +16,11 @@
         "key": "nex",
         "expirydate": "31-12-2026",
         "Allowoffline": true
-    },
-{
-        "device_id": "bbc61a5ba211741a",
-        "key": "ali",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "    {
-        "device_id": "e6189ae2054c203b",
-        "key": "mmd",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },",
-        "key": "mmd",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
- {
-        "device_id": "bb7515ebaf2d6eeb",
-        "key": "ali23",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-  {
+    }, {
         "device_id": "e37b20596abecc32",
-        "key": "mmds",
+        "key": "mmd23",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-{
-        "device_id": "b2fecca1070a9c9b",
-        "key": "amir",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
- {
-        "device_id": "07ede0ac608d1d0d",
-        "key": "alyas",
-        "expirydate": "31-12-2026",
-        "Allowoffline": true
-    },
-]
+
+
