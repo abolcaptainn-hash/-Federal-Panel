@@ -40,4 +40,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+  {
+        "device_id": "e37b20596abecc32",
+        "key": "mmds",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
