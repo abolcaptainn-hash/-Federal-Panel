@@ -52,4 +52,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+ {
+        "device_id": "07ede0ac608d1d0d",
+        "key": "alyas",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
