@@ -21,6 +21,12 @@
         "key": "mmd23",
         "expirydate": "31-12-2026",
         "Allowoffline": true
+    }, {
+        "device_id": "b2fecca1070a9c9b",
+        "key": "amir1",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
     },
+
 
 
