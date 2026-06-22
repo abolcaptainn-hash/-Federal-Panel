@@ -11,5 +11,10 @@
         "key": "atabak",
         "expirydate": "31-12-2026",
         "Allowoffline": false
-    }
+    }, {
+        "device_id": "3b725492c6504409",
+        "key": "nex",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
